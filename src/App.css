@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.ant-descriptions-item-label {
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+}
+.ant-form-item-required {
+  font-size: 1.2rem !important;
+}
